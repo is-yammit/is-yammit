@@ -1,5 +1,22 @@
 ## Bem-vindo(a) ao perfil da Yasmin 😁
 
+Chamo-me Yasmin, tenho 26 anos e estou reconstruindo minha carreira profissional.
+
+Atualmente estudo para ser desenvolvedora de front-end.
+
+UM POUCO MAIS SOBRE MIM😀
+
+Após graduar-me em enfermagem em 2021 pela Universidade Federal do Rio Grande do Sul, a realização de quatro cursos de pós-graduação e múltiplas experiências de trabalho nesta grande área profissional, percebi que meu caminho poderia ser outro lugar, que até então não havia sido apresentado para mim.
+
+Em 2022 percebi que meus objetivos eram outros, a liberdade e a valorização profissional, além da troca de conhecimentos que eu almejava, não seriam correspondidas na área em que me formei. Foi então que optei por uma carreira reformulada e fui atrás de conhecimentos sobre desenvolvimento, principalmente na área web.
+
+ATUALMENTE📅
+
+Para aprimorar minhas habilidades executo vários projetos online que você pode conferir diretamente no meu github.
+
+FORMULÁRIOS
+HTML5 CSS3
+
  <div>
   <a href="https://github.com/is-yammit">
    <a href="https://github.com/is-yammit">

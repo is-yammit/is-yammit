@@ -2,7 +2,7 @@
 
 Olá
 
-Chamo-me Yasmin e tenho 26 anos e estou reconstruindo minha carreira profissional.
+Chamo-me Yasmin e tenho 27 anos e estou reconstruindo minha carreira profissional.
 
 Atualmente estudo para ser desenvolvedora de front-end.
 
